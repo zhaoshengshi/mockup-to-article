@@ -6,4 +6,13 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 ---
 
-Your response goes here!
+  * There are some skills I have learned (but not limited to):
+  	1. Searching MDN for the usage of HTML elements such as <sup>, <s> and <hr />.
+  	2. Choosing a suitable text editor is very important, thumb up to Sublime Text.
+  	3. Understanding the general HTML structure of a webpage: DOCTYPE, <head> and <body>.
+  	4. Understanding the tree representation of a HTML structure.
+  	5. Using HTML Validators to check HTML files.
+
+  * Generally, all lessons are pretty easy to follow. However, I find that it would be difficult to fix a complicated HTML file with multiple syntax errors. I need to be very careful and use Developer Tools provided by browsers.
+
+  * Whenever I did not know which HTML element I should use, I simply Googled it. I always got what I wanted from the first link Google provided. It was a really useful advice.
